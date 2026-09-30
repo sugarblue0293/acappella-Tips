@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<museScore version="3.02">
+  <Drum pitch="35">
+    <head>normal</head>
+    <line>7</line>
+    <voice>1</voice>
+    <name>Acoustic Bass Drum</name>
+    <stem>2</stem>
+    </Drum>
+  <Drum pitch="36">
+    <head>normal</head>
+    <line>7</line>
+    <voice>0</voice>
+    <name>バスドラム 1</name>
+    <stem>2</stem>
+    <shortcut>B</shortcut>
+    </Drum>
+  <Drum pitch="37">
+    <head>cross</head>
+    <line>3</line>
+    <voice>0</voice>
+    <name>サイドスティック</name>
+    <stem>1</stem>
+    <shortcut>C</shortcut>
+    </Drum>
+  <Drum pitch="38">
+    <head>normal</head>
+    <line>3</line>
+    <voice>0</voice>
+    <name>アコースティック スネア</name>
+    <stem>1</stem>
+    <shortcut>A</shortcut>
+    </Drum>
+  <Drum pitch="40">
+    <head>normal</head>
+    <line>3</line>
+    <voice>0</voice>
+    <name>Electric Snare</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="41">
+    <head>normal</head>
+    <line>5</line>
+    <voice>0</voice>
+    <name>Low Floor Tom</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="42">
+    <head>cross</head>
+    <line>-1</line>
+    <voice>0</voice>
+    <name>Closed Hi-Hat</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="43">
+    <head>normal</head>
+    <line>5</line>
+    <voice>1</voice>
+    <name>High Floor Tom</name>
+    <stem>2</stem>
+    </Drum>
+  <Drum pitch="44">
+    <head>cross</head>
+    <line>9</line>
+    <voice>0</voice>
+    <name>ペダル ハイハット</name>
+    <stem>2</stem>
+    <shortcut>G</shortcut>
+    </Drum>
+  <Drum pitch="45">
+    <head>normal</head>
+    <line>2</line>
+    <voice>0</voice>
+    <name>Low Tom</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="46">
+    <head>cross</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>オープン ハイハット</name>
+    <stem>1</stem>
+    <shortcut>F</shortcut>
+    </Drum>
+  <Drum pitch="47">
+    <head>normal</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>ロー ミッド タム</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="48">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Hi-Mid Tom</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="49">
+    <head>cross</head>
+    <line>-2</line>
+    <voice>0</voice>
+    <name>クラッシュ シンバル 1</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="50">
+    <head>normal</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>ハイ タム</name>
+    <stem>1</stem>
+    <shortcut>E</shortcut>
+    </Drum>
+  <Drum pitch="51">
+    <head>cross</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>ライド シンバル 1</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="52">
+    <head>cross</head>
+    <line>-3</line>
+    <voice>0</voice>
+    <name>チャイニーズシンバル</name>
+    <stem>1</stem>
+    <shortcut>D</shortcut>
+    </Drum>
+  <Drum pitch="53">
+    <head>diamond</head>
+    <line>0</line>
+    <voice>0</voice>
+    <name>Ride Bell</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="54">
+    <head>diamond</head>
+    <line>2</line>
+    <voice>0</voice>
+    <name>Tambourine</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="55">
+    <head>cross</head>
+    <line>-3</line>
+    <voice>0</voice>
+    <name>スプラッシュ シンバル</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="56">
+    <head>triangle-down</head>
+    <line>1</line>
+    <voice>0</voice>
+    <name>Cowbell</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="57">
+    <head>cross</head>
+    <line>-3</line>
+    <voice>0</voice>
+    <name>クラッシュ シンバル 2</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="59">
+    <head>cross</head>
+    <line>2</line>
+    <voice>0</voice>
+    <name>Ride Cymbal 2</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="63">
+    <head>cross</head>
+    <line>4</line>
+    <voice>0</voice>
+    <name>Open Hi Conga</name>
+    <stem>1</stem>
+    </Drum>
+  <Drum pitch="64">
+    <head>cross</head>
+    <line>6</line>
+    <voice>0</voice>
+    <name>Low Conga</name>
+    <stem>1</stem>
+    </Drum>
+  </museScore>
